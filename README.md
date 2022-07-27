@@ -1,9 +1,23 @@
 # Feature Selection with Quantum Computing
 
-This repository contains the source code for the article "Towards Feature Selection for Ranking and Classification Exploiting Quantum Annealers" published at SIGIR 2022. See the websites of our [quantum computing group](https://quantum.polimi.it/) for more information on our teams and works.
+This repository contains the source code for the article <a href="https://dl.acm.org/doi/abs/10.1145/3477495.3531755" target="_blank">"Towards Feature Selection for Ranking and Classification Exploiting Quantum Annealers"</a> published at SIGIR 2022. See the websites of our [quantum computing group](https://quantum.polimi.it/) for more information on our teams and works.
 
-Here we explain how to install dependencies, setup the connection to D-Wave Leap quantum cloud services and how to run
-experiments included in this repository.
+Here we explain how to install dependencies, setup the connection to D-Wave Leap quantum cloud services and how to run experiments included in this repository.
+
+If you want to cite us or use our repository you can use the following bibtex entry:
+```bibtex
+@inproceedings{DBLP:conf/sigir/DacremaMN0FC22,
+  author    = {Maurizio {Ferrari Dacrema} and Fabio Moroni and Riccardo Nembrini and Nicola Ferro and Guglielmo Faggioli and Paolo Cremonesi},
+  editor    = {Enrique Amig{\'{o}} and Pablo Castells and Julio Gonzalo and Ben Carterette and J. Shane Culpepper and Gabriella Kazai},
+  title     = {Towards Feature Selection for Ranking and Classification Exploiting Quantum Annealers},
+  booktitle = {{SIGIR} '22: The 45th International {ACM} {SIGIR} Conference on Research and Development in Information Retrieval, Madrid, Spain, July 11 - 15, 2022},
+  pages     = {2814--2824},
+  publisher = {{ACM}},
+  year      = {2022},
+  url       = {https://doi.org/10.1145/3477495.3531755},
+  doi       = {10.1145/3477495.3531755},
+}
+```
 
 ## Installation
 
